@@ -10,6 +10,6 @@ This repository contains an end-to-end data analysis project analyzing employee 
 * **Seatfill% Analysis —** Contains the Power BI file with interactive visual analytics.
 
 # Key Insights & Features
-**Regional Breakdown:** Comparative analysis of seat allocation and fill counts across regions.
-**Occupancy Tracking:** Key performance indicators (KPIs) monitoring seat utilization rates.
-**Interactive Filtering:** Slicers for deep-diving into specific locations and employee groups.
+* **Regional Breakdown:** Comparative analysis of seat allocation and fill counts across regions.
+* **Occupancy Tracking:** Key performance indicators (KPIs) monitoring seat utilization rates.
+* **Interactive Filtering:** Slicers for deep-diving into specific locations and employee groups.
