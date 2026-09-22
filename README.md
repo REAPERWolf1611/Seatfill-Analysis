@@ -1,5 +1,6 @@
 # Seatfill-Analysis
 Power BI dashboard and Excel dataset tracking employee seat fill metrics and occupancy rates across multiple regions.
+![Seatfill](s1.jpg)
 # Regional Employee Seat Fill & Occupancy Dashboard
 
 # Overview
